@@ -1,0 +1,18 @@
+{
+    "id": 40945673,
+    "name": "CraZy",
+    "author": "DavJT",
+    "creators": ["DavJT"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/g_MP6BENHEs?si=gyRriKbb1KOUcEDz",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 54,
+            "hz": 360
+        }
+    ]
+}
