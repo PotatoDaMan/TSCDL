@@ -1,0 +1,18 @@
+{
+    "id": 61137742,
+    "name": "Leyak",
+    "author": "EnZore",
+    "creators": ["EnZore", "ILRELL", "Marwec"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/50ri-NLjnSU?si=ZH4ytU4WP5VhyrPR",
+    "percentToQualify": "45",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
