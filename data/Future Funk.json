@@ -1,0 +1,18 @@
+{
+    "id": 44062068,
+    "name": "Future Funk",
+    "author": "JonathanGD",
+    "creators": ["JonathanGD"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/LUORMA2NvmM?si=LIiIn9omCoSU5jyt",
+    "percentToQualify": "66",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "https://youtu.be/cjKFWOEfjj8?si=VM-UQ6ZMdiOthDoq",
+            "percent": 95,
+            "hz": 360
+        }
+    ]
+}
