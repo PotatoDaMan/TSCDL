@@ -1,0 +1,24 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/dPoahix8Po8?si=mr1oXxw7DcJK7kGs",
+    "percentToQualify": 55,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 55,
+            "hz": 360
+        }
+    ]
+}
