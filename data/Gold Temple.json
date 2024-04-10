@@ -1,0 +1,18 @@
+{
+    "id": 21337579,
+    "name": "Gold Temple",
+    "author": "Serponge",
+    "creators": ["Serponge"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/ARL0iOLpsBU?si=VU84Mcra5MK5rF3t",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Raghav",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
