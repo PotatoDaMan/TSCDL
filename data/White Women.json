@@ -3,11 +3,18 @@
     "name": "white women",
     "author": "Heatherhayes",
     "creators": ["Heatherhayes"],
-    "verifier": "Ben",
+    "verifier": "Raghav",
     "verification": "https://youtu.be/K5E64tECiQY",
     "percentToQualify": "60",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "mobile": true
+            "hz": 60
+        },
         {
             "user": "Leo",
             "link": "linkplaceholder",
