@@ -1,0 +1,42 @@
+{
+    "id": 34085027,
+    "name": "B",
+    "author": "Motleyorc",
+    "creators": ["Motleyorc", "ScorchVC"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/ohKPqGxotao?si=g8zSwe6eJ4hpDwxR",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vishwak",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Est",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Raghav",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        
+    ]
+}
