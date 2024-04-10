@@ -1,0 +1,19 @@
+
+{
+    "id": 61881279,
+    "name": "Homecoming",
+    "author": "Seokso",
+    "creators": ["Seokso"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/g7UN3triR2U?si=m6pXm57epS5O7mIN",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Vishwak",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
