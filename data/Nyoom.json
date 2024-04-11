@@ -4,10 +4,22 @@
     "name": "Nyoom",
     "author": "cerufiffy",
     "creators": ["cerufiffy"],
-    "verifier": "Ben",
+    "verifier": "Raghav",
     "verification": "https://youtu.be/zE405RuqdUM?si=4gQNV6mUn_6LBzLU",
     "percentToQualify": "60",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vishwak",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
