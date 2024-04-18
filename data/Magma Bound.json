@@ -3,13 +3,13 @@
     "name": "Magma Bound",
     "author": "ScorchVX",
     "creators": ["ScorchVX"],
-    "verifier": "Ben",
+    "verifier": "Eli",
     "verification": "https://youtu.be/muShK6gtsJc?si=6aSgYfTm0CWQcaPB",
     "percentToQualify": "53",
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Eli",
+            "user": "Ben",
             "link": "linkplaceholder",
             "percent": 100,
             "hz": 360
