@@ -3,10 +3,16 @@
     "name": "Reanimation",
     "author": "Terron",
     "creators": ["Terron"],
-    "verifier": "Leo",
+    "verifier": "Raghav",
     "verification": "https://youtu.be/f4isWS0lCNU",
     "percentToQualify": 60,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Leo",
+            "link": "https://youtu.be/f4isWS0lCNU",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
