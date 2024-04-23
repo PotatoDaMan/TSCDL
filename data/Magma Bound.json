@@ -9,16 +9,17 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Ben",
-            "link": "linkplaceholder",
+            "user": "Leo",
+            "link": "https://youtu.be/muShK6gtsJc?si=6aSgYfTm0CWQcaPB",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Leo",
+            "user": "Ben",
             "link": "linkplaceholder",
+            "mobile": true,
             "percent": 100,
-            "hz": 360
+            "hz": 60
         }, 
         {
             "user": "Raghav",
