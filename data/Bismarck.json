@@ -12,6 +12,7 @@
         {
             "user": "Ben",
             "link": "linkplaceholder",
+            "mobile": true,
             "percent": 60,
             "hz": 60
         }
