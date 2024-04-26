@@ -4,17 +4,23 @@
     "name": "Bismarck",
     "author": "Inex",
     "creators": ["Stalry", "Mitany", "Inex", "CTRX", "maleg016", "SonyaGMD", "iReumii", "iISpaceDustIi", "Vertuoz", "iMinAY", "Electro543", "PineApple Cat", "VanirSama", "Stotch", "ChefChichik", "YaYmsc"],
-    "verifier": "Leo",
+    "verifier": "Nathaniel",
     "verification": "https://youtu.be/Wl7V0FkEH8c?si=iYxZsn0eiOh7ZnqB",
     "percentToQualify": "60",
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "Ben",
             "link": "linkplaceholder",
             "mobile": true,
-            "percent": 60,
-            "hz": 60
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
