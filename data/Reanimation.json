@@ -9,10 +9,16 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Nathaniel",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Leo",
             "link": "https://youtu.be/f4isWS0lCNU",
             "percent": 100,
-            "hz": 60
+            "hz": 360
         },
         {
             "user": "Ben",
