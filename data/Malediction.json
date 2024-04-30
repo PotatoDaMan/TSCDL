@@ -1,0 +1,18 @@
+
+{
+    "id": 104446304,
+    "name": "Malediction",
+    "author": "Leo",
+    "verifier": "Leo",
+    "verification": "https://youtu.be/AQoNgmkEXPA",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Raghav",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
