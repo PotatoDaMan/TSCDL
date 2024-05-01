@@ -12,11 +12,11 @@
         {
             "user": "Est",
             "link": "linkplaceholder",
-            "percent": 51,
+            "percent": 100,
             "hz": 360
         },
         {
-            "user": "ben",
+            "user": "Ben",
             "link": "linkplaceholder",
             "percent": 50,
             "hz": 60
