@@ -9,5 +9,11 @@
     "percentToQualify": "30",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "percent": 31,
+            "hz": 60
+        }
     ]
 }
