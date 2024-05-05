@@ -6,14 +6,8 @@
     "creators": ["arWerden", "ImMaxX1", "Xatz", "BallisticGMD", "Desumari", "Rouzsthegod", "plexx001", "AirSavage", "zgalliard", "DangerKat", "Kotoriii", "Kivvvi", "WoiteForest", "DoliaX", "SmitN", "Pineapple Cat"],
     "verifier": "Leo",
     "verification": "https://youtu.be/N2qRhqj01aw?si=9zl-bYgZRcbP2yvd",
-    "percentToQualify": "30",
+    "percentToQualify": "53",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Ben",
-            "link": "linkplaceholder",
-            "percent": 31,
-            "hz": 60
-        }
     ]
 }
