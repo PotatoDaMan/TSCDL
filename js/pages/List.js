@@ -89,7 +89,7 @@ export default {
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
                     <div class="og">
-                        <p>Website built and run by Leo</p>
+                        <p class="type-label-md">Website built and run by <a href="https://www.youtube.com/@potatodaman" target="_blank">Leo</a></p>
                     </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
