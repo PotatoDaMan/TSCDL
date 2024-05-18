@@ -37,6 +37,12 @@
             "link": "linkplaceholder",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Satvik",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 90
         }
     ]
 }
