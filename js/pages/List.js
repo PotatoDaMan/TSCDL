@@ -106,7 +106,7 @@ export default {
                         Achieved the record without using hacks. All rules from the Pointercrate Demon List apply, although exceptions can be made.
                     </p>
                     <p>
-                        All submitter must be in the Trigonometry Sprint Cologne group chat for the records to be counted and uploaded.
+                        All submitter must be in the Spoonism group chat for the records to be counted and uploaded.
                     </p>
                     <p>
                         Any demon completion must be Medium Demon or above to be added to the list, as long as it is legitimately completed.
