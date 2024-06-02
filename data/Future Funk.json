@@ -19,6 +19,12 @@
             "link": "https://youtu.be/cjKFWOEfjj8?si=VM-UQ6ZMdiOthDoq",
             "percent": 95,
             "hz": 360
+        },
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "percent": 70,
+            "hz": 240
         }
     ]
 }
