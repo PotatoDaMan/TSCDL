@@ -61,6 +61,12 @@
             "link": "linkplaceholder",
             "percent": 96,
             "hz": 240
+        },
+        {
+            "user": "Litten",
+            "link": "linkplaceholder",
+            "percent": 1,
+            "hz": 240
         }
     ]
 }
