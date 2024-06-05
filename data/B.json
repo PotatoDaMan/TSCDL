@@ -59,13 +59,13 @@
         {
             "user": "Rice",
             "link": "linkplaceholder",
-            "percent": 96,
+            "percent": 100,
             "hz": 240
         },
         {
             "user": "Litten",
             "link": "linkplaceholder",
-            "percent": 1,
+            "percent": 0,
             "hz": 240
         }
     ]
