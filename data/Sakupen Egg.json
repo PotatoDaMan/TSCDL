@@ -4,16 +4,16 @@
     "name": "Iron God: Sakupen Hell Yes RMX",
     "author": "Sivlol",
     "creators": ["Skrypto", "Chuck", "Scopal", "GD Iris", "andhika"],
-    "verifier": "Ben",
+    "verifier": "Raghav",
     "verification": "https://youtu.be/M61Vqi6ryj8?si=VA1lJyA6-ImkOF9x",
     "percentToQualify": "60",
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Raghav",
+            "user": "Ben",
             "link": "linkplaceholder",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         },
         {
             "user": "Eli",
