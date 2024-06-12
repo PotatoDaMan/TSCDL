@@ -17,14 +17,14 @@
         {
             "user": "Preston",
             "link": "linkplaceholder",
-            "percent": 72,
+            "percent": 71,
             "hz": 360
         },
         {
             "user": "Leo",
             "link": "linkplaceholder",
-            "percent": 55,
-            "hz": 360
+            "percent": 71,
+            "hz": 480
         }
     ]
 }
