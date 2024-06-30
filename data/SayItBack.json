@@ -1,0 +1,19 @@
+
+{
+    "id": 94922475,
+    "name": "SayItBack",
+    "author": "X1RON",
+    "creators": ["X1RON"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/VUW7hQcqN1M?si=k0g_mzLKqGKf7SJi",
+    "percentToQualify": "52",
+    "password": "Free To Copy",
+    "records": [
+      {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 85,
+            "hz": 360
+        }
+    ]
+}
