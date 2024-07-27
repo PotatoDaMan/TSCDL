@@ -23,6 +23,12 @@
         {
             "user": "Eli",
             "link": "linkplaceholder",
+            "percent": 85,
+            "hz": 240
+        },
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
             "percent": 70,
             "hz": 240
         }
