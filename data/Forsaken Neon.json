@@ -12,8 +12,8 @@
         {
             "user": "Leo",
             "link": "link",
-            "percent": 53,
-            "hz": 360
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
