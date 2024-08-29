@@ -13,6 +13,12 @@
             "link": "linkplaceholder",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Red",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
