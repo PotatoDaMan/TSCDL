@@ -15,5 +15,11 @@
             "percent": 100,
             "hz": 60
         }
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 96,
+            "hz": 144
+        }
     ]
 }
