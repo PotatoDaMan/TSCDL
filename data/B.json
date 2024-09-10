@@ -12,19 +12,19 @@
             "user": "Leo",
             "link": "linkplaceholder",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         },
         {
             "user": "Eli",
             "link": "linkplaceholder",
             "percent": 100,
-            "hz": 360
+            "hz": 75
         },
         {
             "user": "Nathaniel",
             "link": "linkplaceholder",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         },
         {
             "user": "Vishwak",
@@ -36,7 +36,7 @@
             "user": "Est",
             "link": "linkplaceholder",
             "percent": 100,
-            "hz": 360
+            "hz": 144
         },
         {
             "user": "Raghav",
@@ -48,7 +48,7 @@
             "user": "Preston",
             "link": "linkplaceholder",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         },
         {
             "user": "Satvik",
@@ -59,6 +59,7 @@
         {
             "user": "Rice",
             "link": "linkplaceholder",
+            "mobile": true,
             "percent": 100,
             "hz": 60
         }
