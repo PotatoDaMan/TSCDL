@@ -12,25 +12,25 @@
             "user": "Eli",
             "link": "linkplaceholder",
             "percent": 100,
-            "hz": 360
+            "hz": 75
         },
         {
             "user": "Leo",
             "link": "linkplaceholder",
             "percent": 100,
-            "hz": 480
+            "hz": 240
         },
         {
             "user": "Vishwak",
             "link": "linkplaceholder",
             "percent": 76,
-            "hz": 360
+            "hz": 240
         },
         {
             "user": "Preston",
             "link": "linkplaceholder",
             "percent": 71,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
