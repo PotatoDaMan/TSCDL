@@ -21,16 +21,16 @@
             "hz": 480
         },
         {
+            "user": "Vishwak",
+            "link": "linkplaceholder",
+            "percent": 76,
+            "hz": 360
+        },
+        {
             "user": "Preston",
             "link": "linkplaceholder",
             "percent": 71,
             "hz": 360
-        },
-        {
-            "user": "Vishwak",
-            "link": "linkplaceholder",
-            "percent": 71,
-            "hz": 240
         }
     ]
 }
