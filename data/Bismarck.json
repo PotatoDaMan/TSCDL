@@ -25,6 +25,7 @@
         {
             "user": "Rice",
             "link": "linkplaceholder",
+            "mobile": true,
             "percent": 100,
             "hz": 60
         },
@@ -32,7 +33,7 @@
             "user": "Vishwak",
             "link": "linkplaceholder",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
