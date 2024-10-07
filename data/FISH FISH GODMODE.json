@@ -11,13 +11,13 @@
         {
             "user": "Eli",
             "link": "linkplaceholder",
-            "percent": 100,
+            "percent": 4000,
             "hz": 60
         },
         {
             "user": "Leo",
             "link": "linkplaceholder",
-            "percent": 100,
+            "percent": 5000,
             "hz": 144
         }
     ]
