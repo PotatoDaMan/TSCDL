@@ -103,13 +103,13 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                      <p>
-                        Achieved the record without using hacks. All rules from the Pointercrate Demon List apply, although exceptions can be made.
+                        Achieved the record without using hacks (NoClip, Speedhack, Hitboxes, etc...). Most rules from the Pointercrate Demon List apply, although exceptions can be made.
                     </p>
                     <p>
-                        All submitter must be in the Spoonism group chat for the records to be counted and uploaded.
+                        All submitters must be members of the Spoonism group chat for the records to be counted and uploaded.
                     </p>
                     <p>
-                        Any demon completion must be Medium Demon or above to be added to the list, as long as it is legitimately completed.
+                        Any demon completion must be Medium Demon or above, and cannot be a minigame style level, to be added to the list, as long as it is legitimately completed.
                     </p>
                 </div>
             </div>
