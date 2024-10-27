@@ -8,12 +8,6 @@
     "percentToQualify": "58",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Litten",
-            "link": "linkplaceholder",
-            "mobile": "true",
-            "percent": 99999999999999999,
-            "hz": 60
-        }
+    
     ]
 }
