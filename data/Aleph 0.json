@@ -5,7 +5,7 @@
     "author": "Shiryuu7",
     "creators": ["Shiryuu7"],
     "verifier": "Nathaniel",
-    "verification": "https://www.youtube.com/watch?v=BWlj_o6h3qY",
+    "verification": "https://youtu.be/cBSy0H7hL-g",
     "percentToQualify": "60",
     "password": "Free To Copy",
     "records": [
@@ -15,6 +15,12 @@
             "mobile": true,
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Leo",
+            "link": "https://youtu.be/cBSy0H7hL-g",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
