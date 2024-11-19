@@ -8,10 +8,6 @@ export default {
             type: Array,
             required: true,
         },
-        test_value: {
-            type: String,
-            required: false,
-        },
         verifier: {
             type: String,
             required: true,
