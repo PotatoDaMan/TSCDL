@@ -24,19 +24,19 @@
         {
             "user": "Vishwak",
             "link": "linkplaceholder",
-            "percent": 81,
+            "percent": 85,
+            "hz": 240
+        },
+        {
+            "user": "Est",
+            "link": "linkplaceholder",
+            "percent": 74,
             "hz": 240
         },
         {
             "user": "Preston",
             "link": "linkplaceholder",
             "percent": 71,
-            "hz": 240
-        },
-        {
-            "user": "Est",
-            "link": "linkplaceholder",
-            "percent": 70,
             "hz": 240
         }
     ]
