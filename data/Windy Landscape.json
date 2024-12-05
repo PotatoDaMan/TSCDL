@@ -25,6 +25,12 @@
             "link": "linkplaceholder",
             "percent": 100,
             "hz": 90
+        },
+        {
+            "user": "Oleg",
+            "link": "https://youtu.be/eL2DDVGNGIQ?si=kcT6w0eS_SYspduF",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
