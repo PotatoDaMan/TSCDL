@@ -14,6 +14,12 @@
             "link": "linkplaceholder",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Vishwak",
+            "link": "linkplaceholder",
+            "percent": 67,
+            "hz": 144
         }
     ]
 }
