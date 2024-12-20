@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "tags": ["PDF File Creator"],
     "records": [
+        {
+        "user": "Ben",
+        "link": "linkplaceholder",
+        "percent": 100,
+        "hz": 144
+        }
     ]
 }
