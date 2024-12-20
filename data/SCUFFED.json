@@ -11,6 +11,12 @@
     "tags": ["Rainbow Pack"],
     "records": [
         {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 144
+        },
+        {
         "user": "Ben",
         "link": "linkplaceholder",
         "percent": 100,
