@@ -4,10 +4,16 @@
     "author": "CherryTeam",
     "creators": ["linus02, qMystic, curxe, guleshelt, CuaeR, TheShoot, AppleCr, DiamondSkull, endevvor, matty2003, Sauzzeth, hyp3rlink, Convie, Bli, voltex, Yoonsr, SmitN"],
     "verifier": "Nathaniel",
-    "verification": "https://www.youtube.com/live/NH4U4SM9sMw",
+    "verification": "https://youtu.be/p1b7MsBjleM?si=0EquM13UyElYON86",
     "percentToQualify": "51",
     "password": "Free To Copy",
     "tags": ["CherryTeam Pack"],
     "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
