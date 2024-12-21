@@ -26,6 +26,12 @@
             "link": "linkplaceholder",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Nathaniel",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
