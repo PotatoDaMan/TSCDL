@@ -38,6 +38,12 @@
             "link": "linkplaceholder",
             "percent": 71,
             "hz": 240
+        },
+        {
+            "user": "Preston",
+            "link": "linkplaceholder",
+            "percent": 59,
+            "hz": 240
         }
     ]
 }
