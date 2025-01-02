@@ -11,16 +11,16 @@
     "tags": ["Apocalyptic Trilogy"],
     "records": [
         {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 144
+        },
+        {
             "user": "Preston",
             "link": "linkplaceholder",
             "percent": 80,
             "hz": 240
-        },
-        {
-            "user": "Leo",
-            "link": "linkplaceholder",
-            "percent": 74,
-            "hz": 144
         }
     ]
 }
