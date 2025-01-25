@@ -10,5 +10,11 @@
     "password": "Free To Copy",
     "tags": ["Apocalyptic Trilogy"],
     "records": [
+        {
+        "user": "Eli",
+        "link": "linkplaceholder",
+        "percent": 100,
+        "hz": 144
+        }
     ]
 }
