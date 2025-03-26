@@ -4,17 +4,11 @@
     "name": "Natural Step",
     "author": "TrueNature",
     "creators": ["TrueNature"],
-    "verifier": "Red",
+    "verifier": "Ben",
     "verification": "https://youtu.be/178LaweNe-s",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "tags": ["Roco Pack"],
     "records": [
-        {
-        "user": "Ben",
-        "link": "linkplaceholder",
-        "percent": 100,
-        "hz": 144
-        }
     ]
 }
