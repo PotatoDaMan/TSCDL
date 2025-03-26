@@ -4,17 +4,11 @@
     "name": "Darnocant Let Go",
     "author": "BEklD1442",
     "creators": ["BEklD1442"],
-    "verifier": "Red",
+    "verifier": "Ben",
     "verification": "https://youtu.be/nKSeKTPA--4",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "tags": ["Roco Pack"],
-    "records": [
-        {
-            "user": "Ben",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 144
-        }
+    "records": [     
     ]
 }
