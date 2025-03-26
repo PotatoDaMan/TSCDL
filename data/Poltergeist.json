@@ -10,11 +10,5 @@
     "password": "Free To Copy",
     "tags": ["Nine Circles Pack"],
     "records": [
-        {
-            "user": "Red",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
