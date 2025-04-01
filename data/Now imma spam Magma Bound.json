@@ -1,0 +1,27 @@
+
+{
+    "id": 91937002,
+    "name": "Now im gonna spam Magma Bound",
+    "author": "can you spot the odd one out??!!!",
+    "creators": ["SHUT, THE, FUCK, UP"],
+    "verifier": "Playboi Carti",
+    "verification": "https://youtu.be/0pQ0uyKSSHc?si=4uo8ljQP5YwmgjNj",
+    "percentToQualify": "63",
+    "password": "Free To Copy",
+    "tags": ["Click-Sync Pack", "GARDL Pack", "NONG"],
+    "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "mobile": "true",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
