@@ -1,8 +1,9 @@
 export default {
-    components: { S },
+    components: { Packs },,
     template: `
         <main v-if="loading">
             <head>List of Packs:
             </head>
         </main>
     `,
+}
