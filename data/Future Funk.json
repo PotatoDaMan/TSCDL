@@ -22,15 +22,15 @@
             "hz": 480
         },
         {
-            "user": "Rice",
+            "user": "Eli",
             "link": "linkplaceholder",
-            "percent": 85,
+            "percent": 99,
             "hz": 240
         },
         {
-            "user": "Eli",
+            "user": "Rice",
             "link": "linkplaceholder",
-            "percent": 70,
+            "percent": 85,
             "hz": 240
         }
     ]
