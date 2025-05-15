@@ -9,5 +9,11 @@
     "password": "Free To Copy",
      "tags": ["2-Player Pack", "plceholderpack2"],
     "records": [
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
