@@ -17,6 +17,12 @@
             "hz": 144
         },
         {
+            "user": "Est",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Preston",
             "link": "linkplaceholder",
             "percent": 80,
