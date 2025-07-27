@@ -3,10 +3,16 @@
     "name": "IM GOING UP",
     "author": "Gogglas",
     "creators": ["Gogglas"],
-    "verifier": "Gogglas",
+    "verifier": "Ben",
     "verification": "https://m.youtube.com/watch?v=ezTFGOL33sw&pp=ygUWSW0gZ29pbmcgdXAgYnkgZ29nZ2xhcw%3D%3D",
     "percentToQualify": "60",
     "password": "Free To Copy",
     "records": [
+                {
+        "user": "Eli",
+        "link": "linkplaceholder",
+        "percent": 100,
+        "hz": 144
+        }
     ]
 }
