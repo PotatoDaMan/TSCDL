@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "tags": ["Top 1 Pack", "1.0 Pack"],
     "records": [
+        {
+        "user": "Ben",
+        "link": "linkplaceholder",
+        "percent": 100,
+        "hz": 144
+        }
     ]
 }
