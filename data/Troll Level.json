@@ -28,6 +28,12 @@
             "link": "linkplaceholder",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Fexitty",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
