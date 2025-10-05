@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "tags": ["OG List", "Rainbow Pack", "Dual Pack"],
     "records": [
+        {
+            "user": "Gogglas",
+            "link": "linkplaceholder",
+            "percent": 67,
+            "hz": 360
+        }
     ]
 }
