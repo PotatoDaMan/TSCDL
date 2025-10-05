@@ -10,5 +10,11 @@
     "password": "Free To Copy",
     "tags": ["OG List", "JonathanGD Pack", "XXL Pack"],
     "records": [
+        {
+            "user": "Gogglas",
+            "link": "linkplaceholder",
+            "percent": 90,
+            "hz": 240
+        }
     ]
 }
