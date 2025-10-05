@@ -35,16 +35,16 @@
             "hz": 165
         },
         {
-            "user": "Est",
-            "link": "linkplaceholder",
-            "percent": 56,
-            "hz": 240
-        },
-        {
             "user": "Gogglas",
             "link": "linkplaceholder",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Est",
+            "link": "linkplaceholder",
+            "percent": 56,
+            "hz": 240
+        } 
     ]
 }
