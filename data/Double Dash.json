@@ -12,8 +12,8 @@
         {
             "user": "Gogglas",
             "link": "linkplaceholder",
-            "percent": 67,
-            "hz": 360
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
