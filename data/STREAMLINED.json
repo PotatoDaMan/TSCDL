@@ -1,13 +1,11 @@
-
 {
-    "id": 118249328,
+    "id": "118249328",
     "name": "STREAMLINED",
     "author": "Split72",
     "creators": ["Split72"],
     "verifier": "Gogglas",
     "verification": "https://www.youtube.com/watch?v=zAJqTU2hvL4",
-    "percentToQualify": "60",
+    "percentToQualify": 60,
     "password": "Free To Copy",
-    "records": [
-    ]
+    "records": []
 }
