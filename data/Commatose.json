@@ -3,10 +3,16 @@
     "name": "commatose",
     "author": "rply",
     "creators": ["rply"],
-    "verifier": "Oleg",
+    "verifier": "Gogglas",
     "verification": "https://youtu.be/mPGWmKjaUUw?si=-ufkB-uSxStoBlG1",
     "percentToQualify": "50",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Oleg",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
