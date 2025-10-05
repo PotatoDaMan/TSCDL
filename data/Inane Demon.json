@@ -10,5 +10,11 @@
     "password": "Free To Copy",
     "tags": ["Rainbow Pack"],
     "records": [
+        {
+            "user": "Gogglas",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
