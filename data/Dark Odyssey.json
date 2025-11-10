@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "tags": ["OG List", "XL Pack", "Pre-TSCDL Top 1 Pack", "JonathanGD Pack"],
     "records": [
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 77,
+            "hz": 240
+        }
     ]
 }
