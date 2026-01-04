@@ -23,15 +23,15 @@
             "hz": 240
         },
         {
-            "user": "Preston",
+            "user": "Michael",
             "link": "linkplaceholder",
-            "percent": 80,
+            "percent": 100,
             "hz": 240
         },
         {
-            "user": "Michael",
+            "user": "Preston",
             "link": "linkplaceholder",
-            "percent": 66,
+            "percent": 80,
             "hz": 240
         }
     ]
