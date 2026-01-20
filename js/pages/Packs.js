@@ -1,8 +1,6 @@
 export default {
     components: { Packs },,
     template: `
-         <main v-if="loading">
-            <Spinner></Spinner>
         </main>
         <main v-else class="page-list">
             <div class="list-container">
