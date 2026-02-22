@@ -20,6 +20,18 @@
             "link": "linkplaceholder",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Michael",
+            "link": "linkplaceholder",
+            "percent": 74,
+            "hz": 240
+        },
+        {
+            "user": "Jason",
+            "link": "linkplaceholder",
+            "percent": 61,
+            "hz": 240
         }
     ]
 }
