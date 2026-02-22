@@ -6,22 +6,22 @@
     },
     {
         "role": "owner",
-        "name": "Fexitty",
-        "link": "https://www.youtube.com/@Fexitty"
-    },
-    {
-        "role": "owner",
         "name": "Ben",
         "link": "https://www.youtube.com/@Klinoserus"
     },
     {
-        "role": "helper",
-        "name": "Preston",
-        "link": "https://www.youtube.com/@Klinoserus"
+        "role": "owner",
+        "name": "Fexitty",
+        "link": "https://www.youtube.com/@Fexitty"
     },
     {
         "role": "helper",
         "name": "Est",
         "link": "https://www.youtube.com/@5estyou"
+    },
+    {
+        "role": "helper",
+        "name": "Preston",
+        "link": "https://www.youtube.com/@Klinoserus"
     }
 ]
