@@ -3,11 +3,17 @@
     "name": "Duelo Maestro (2P)",
     "author": "Nacho21",
     "creators": ["Nacho21"],
-    "verifier": "Eli",
+    "verifier": "Jason",
     "verification": "https://youtu.be/IMeWHcnYgkk?si=cYL7qnz_bLhJG55Y",
     "percentToQualify": "100",
     "password": "Free To Copy",
      "tags": [],
     "records": [
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
