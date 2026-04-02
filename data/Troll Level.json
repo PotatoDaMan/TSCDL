@@ -1,45 +1,13 @@
 
-
 {
     "id": 76196489,
-    "name": "troll level",
+    "name": "Troll Level",
     "author": "Lexycat",
     "creators": ["Lexycat", "lena", "glitchy"],
     "verifier": "Preston",
     "verification": "https://youtu.be/7zrNWAQiZbo",
-    "percentToQualify": "67",
+    "percentToQualify": "60",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Ben",
-            "link": "linkplaceholder",
-            "mobile": "true",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Eli",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Leo",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Fexitty",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Michael",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }

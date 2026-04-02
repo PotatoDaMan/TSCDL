@@ -1,4 +1,3 @@
-
 {
     "id": 91937002,
     "name": "Cake by the Ocean",
@@ -8,26 +7,6 @@
     "verification": "https://youtu.be/0pQ0uyKSSHc?si=4uo8ljQP5YwmgjNj",
     "percentToQualify": "63",
     "password": "Free To Copy",
-    "tags": ["Click-Sync Pack", "GARDL Pack", "NONG"],
     "records": [
-        {
-            "user": "Ben",
-            "link": "linkplaceholder",
-            "mobile": "true",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Eli",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Oleg",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }

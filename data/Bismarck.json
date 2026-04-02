@@ -1,14 +1,12 @@
-
 {
     "id": 83025300,
-    "name": "BISMARCK",
+    "name": "Bismarck",
     "author": "Inex",
     "creators": ["Stalry", "Mitany", "Inex", "CTRX", "maleg016", "SonyaGMD", "iReumii", "iISpaceDustIi", "Vertuoz", "iMinAY", "Electro543", "PineApple Cat", "VanirSama", "Stotch", "ChefChichik", "YaYmsc"],
     "verifier": "Nathaniel",
-    "verification": "https://youtu.be/SEjkRW8M8QA?si=OEqeQiaV62YFO42M",
+    "verification": "https://youtu.be/Wl7V0FkEH8c?si=iYxZsn0eiOh7ZnqB",
     "percentToQualify": "60",
     "password": "Free To Copy",
-    "tags": ["OG List", "GARDL Pack", "Gauntlet Pack"],
     "records": [
         {
             "user": "Leo",
@@ -17,24 +15,10 @@
             "hz": 360
         },
         {
-            "user": "Ben",
+            "user": "Leo (School)",
             "link": "linkplaceholder",
-            "mobile": true,
             "percent": 100,
             "hz": 60
-        },
-        {
-            "user": "Rice",
-            "link": "linkplaceholder",
-            "mobile": true,
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Vishwak",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }

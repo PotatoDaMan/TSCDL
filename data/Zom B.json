@@ -1,4 +1,3 @@
-
 {
     "id": "65761419",
     "name": "Zom B",
@@ -8,18 +7,5 @@
     "verification": "https://youtu.be/SVxXkyFr7Fw?si=e_lULFku6O-8Jei5",
     "percentToQualify": 60,
     "password": "Free To Copy",
-    "records": [
-        {
-            "user": "Eli",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Ben",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 144
-        }
-    ]
+    "records": []
 }

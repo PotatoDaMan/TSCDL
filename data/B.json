@@ -2,79 +2,49 @@
     "id": 34085027,
     "name": "B",
     "author": "Motleyorc",
-    "creators": ["Motleyorc", "ScorchVC"],
-    "verifier": "Ben",
-    "verification": "https://youtu.be/S5CnIAKdjDM?si=LeYG3_kw58LsRjQe",
-    "percentToQualify": "60",
+    "creators": ["Motleyorc", "ScorchVX"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/ohKPqGxotao?si=CaeBsPL8Tz_BQ_VB",
+    "percentToQualify": "55",
     "password": "Free To Copy",
-    "tags": ["OG List", "First Demons Pack", "GARDL Pack"],
     "records": [
         {
-            "user": "Leo",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Eli",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 75
-        },
-        {
             "user": "Nathaniel",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Vishwak",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Est",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Raghav",
-            "link": "linkplaceholder",
+            "link": "link",
             "percent": 100,
             "hz": 360
         },
         {
             "user": "Preston",
-            "link": "linkplaceholder",
+            "link": "link",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "Satvik",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 90
-        },
-        {
-            "user": "Rice",
+            "user": "Narek",
             "link": "linkplaceholder",
             "mobile": true,
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "Litten",
-            "link": "linkplaceholder",
+            "user": "Memphis",
+            "link": "https://youtu.be/i3saotIqXLg",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         },
         {
-            "user": "Oleg",
+            "user": "Leo (School)",
             "link": "linkplaceholder",
             "percent": 100,
-            "hz": 240
+            "hz": 60
+        },
+        {
+            "user": "Aidan",
+            "link": "link",
+            "mobile": true,
+            "percent": 57,
+            "hz": 60
         }
     ]
 }

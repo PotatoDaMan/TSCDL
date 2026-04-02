@@ -1,3 +1,4 @@
+
 {
     "id": 5310094,
     "name": "Fairydust",
@@ -7,13 +8,6 @@
     "verification": "https://youtu.be/NvPPiGjXbbw",
     "percentToQualify": "60",
     "password": "Free To Copy",
-    "tags": ["Nine Circles Pack"],
     "records": [
-        {
-            "user": "Fexitty",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }

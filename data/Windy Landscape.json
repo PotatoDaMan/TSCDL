@@ -3,46 +3,10 @@
     "name": "Windy Landscape",
     "author": "WOOGI1411",
     "creators": ["WOOGI1411"],
-    "verifier": "Ben",
-    "verification": "https://youtu.be/IBHVUXGpqiI?si=51Ng1AVSCndEVhL-",
-    "percentToQualify": "45",
+    "verifier": "Leo",
+    "verification": "https://youtu.be/0qb-1Ick46c",
+    "percentToQualify": "44",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Eli",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Leo",
-            "link": "https://youtu.be/0qb-1Ick46c",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Satvik",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 90
-        },
-        {
-            "user": "Oleg",
-            "link": "https://youtu.be/eL2DDVGNGIQ?si=kcT6w0eS_SYspduF",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "Gogglas",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        }, 
-        {
-            "user": "Fexitty",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }

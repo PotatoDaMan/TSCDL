@@ -3,41 +3,16 @@
     "name": "Future Funk",
     "author": "JonathanGD",
     "creators": ["JonathanGD"],
-    "verifier": "Ben",
-    "verification": "https://youtu.be/LUORMA2NvmM?si=LIiIn9omCoSU5jyt",
-    "percentToQualify": "66",
+    "verifier": "Nathaniel",
+    "verification": "https://www.youtube.com/watch?v=2CZM4Oi_hdA",
+    "percentToQualify": "67",
     "password": "Free To Copy",
-    "tags": ["OG List", "JonathanGD Pack", "XXL Pack"],
     "records": [
         {
-            "user": "Nathaniel",
-            "link": "placeholderlink",
-            "percent": 100,
-            "hz": 360
-        },
-        {
             "user": "Leo",
-            "link": "https://youtu.be/cjKFWOEfjj8?si=VM-UQ6ZMdiOthDoq",
-            "percent": 100,
-            "hz": 480
-        },
-        {
-            "user": "Eli",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Fexitty",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Rice",
-            "link": "linkplaceholder",
-            "percent": 85,
-            "hz": 240
+            "link": "https://www.youtube.com/watch?v=cjKFWOEfjj8",
+            "percent": 95,
+            "hz": 360
         }
     ]
 }

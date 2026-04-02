@@ -1,73 +1,18 @@
 {
-    "id": 61079355,
+    "id": "61079355",
     "name": "Acu",
-    "author": "neigefeu",
-    "creators": ["neigefeu"],
-    "verifier": "Ben",
-    "verification": "https://youtu.be/dPoahix8Po8?si=mr1oXxw7DcJK7kGs",
-    "percentToQualify": 45,
+    "author": "Neigefeu",
+    "creators": ["Neigefeu"],
+    "verifier": "Preston",
+    "verification": "https://youtu.be/qTE6hE1a_vU?si=eSyuRYwtcaPD-KZU",
+    "percentToQualify": 60,
     "password": "Free To Copy",
-    "tags": ["OG List", "Classic Top 3","First Demons Pack", "Pre-TSCDL Top 1 Pack", "Rainbow Pack", "Modern Pack", "Creo Pack"],
     "records": [
         {
-            "user": "Eli",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 75
-        },
-        {
             "user": "Leo",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Vishwak",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Nathaniel",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Est",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Gogglas",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Fexitty",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Oleg",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Jason",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Preston",
-            "link": "linkplaceholder",
-            "percent": 71,
-            "hz": 240
+            "link": "link",
+            "percent": 55,
+            "hz": 60
         }
     ]
 }

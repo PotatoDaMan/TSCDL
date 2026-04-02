@@ -1,4 +1,3 @@
-
 {
     "id": 63113581,
     "name": "Nantendo",
@@ -8,19 +7,6 @@
     "verification": "https://youtu.be/xvVu8Kbpuqg?si=oCnlno1ppt38DIeM",
     "percentToQualify": "60",
     "password": "Free To Copy",
-    "tags": ["GARDL Pack", "OG List", "XXL Pack"],
     "records": [
-        {
-            "user": "Leo",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 480
-        },
-        {
-            "user": "Ben",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 144
-        }
     ]
 }

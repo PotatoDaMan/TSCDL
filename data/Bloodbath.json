@@ -1,49 +1,60 @@
 {
-    "id": 10567540,
+    "id": 10565740,
     "name": "Bloodbath",
     "author": "Riot",
-    "creators": ["Riot, Vermillion, WEOWEOTEO, Michigun, Evasium, crack, Etzer, Havok, GgB0y"],
-    "verifier": "Est",
-    "verification": "https://youtu.be/19JiHnK32y4?si=lqwXjXsQh1-QmY7O",
-    "percentToQualify": "53",
+    "creators": [
+		"Riot",
+		"Michigun",
+		"Etzer",
+		"weoweoteo",
+		"Vermillion",
+		"Evasium",
+		"Crack",
+		"Asonicmen",
+		"Havok",
+		"GgB0y",
+		"Giron"
+],
+    "verifier": "Romeo",
+    "verification": "https://youtu.be/twTw4fjT0ik?si=cySicI60b4G63B5p",
+    "percentToQualify": "0",
     "password": "Free To Copy",
-    "tags": ["Apocalyptic Trilogy", "RGB"],
     "records": [
         {
-        "user": "Ben",
-        "link": "linkplaceholder",
-        "percent": 100,
-        "hz": 144
-        },
-        {
-            "user": "Fexitty",
+            "user": "Leo",
             "link": "linkplaceholder",
             "percent": 100,
-            "hz": 240
+            "hz": 360
         },
         {
             "user": "Nathaniel",
             "link": "linkplaceholder",
             "percent": 100,
-            "hz": 240
+            "hz": 360
         },
         {
-            "user": "Michael",
+            "user": "Preston",
+            "link": "linkplaceholder",
+            "percent": 2,
+            "hz": 360
+        },
+        {
+            "user": "Memphis",
             "link": "linkplaceholder",
             "percent": 100,
-            "hz": 240
+            "hz": 360
         },
         {
-            "user": "Leo",
+            "user": "Tigran",
             "link": "linkplaceholder",
             "percent": 100,
-            "hz": 240
+            "hz": 360
         },
         {
-            "user": "Jason",
+            "user": "Aidan",
             "link": "linkplaceholder",
-            "percent": 61,
-            "hz": 240
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

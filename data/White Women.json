@@ -3,35 +3,16 @@
     "name": "white women",
     "author": "Heatherhayes",
     "creators": ["Heatherhayes"],
-    "verifier": "Raghav",
+    "verifier": "Leo",
     "verification": "https://youtu.be/K5E64tECiQY",
     "percentToQualify": "54",
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Ben",
+            "user": "Leo (School)",
             "link": "linkplaceholder",
-            "mobile": "true",
-            "percent": 100,
+            "percent": 61,
             "hz": 60
-        },
-        {
-            "user": "Leo",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Eli",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Vishwak",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }

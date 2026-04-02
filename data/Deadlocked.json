@@ -1,55 +1,32 @@
 {
     "id": "N/A",
     "name": "Deadlocked",
-    "author": "Robtop",
-    "creators": ["Robtop"],
-    "verifier": "Ben",
-    "verification": "https://youtu.be/kw6vaF6yqDY?si=4dfelcFkvTd_PIqs",
+    "author": "RobTop",
+    "creators": ["RobTop"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/kw6vaF6yqDY",
     "percentToQualify": "60",
     "password": "Free To Copy",
-    "tags": ["OG List", "RobTop Pack", "Free Pack"],
     "records": [
         {
-            "user": "Eli",
+            "user": "Narek",
             "link": "linkplaceholder",
+            "mobile": true,
             "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Leo",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Est",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 360
+            "hz": 60
         },
         {
             "user": "Nathaniel",
-            "link": "linkplaceholder",
+            "link": "link",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Vishwak",
-            "link": "linkplaceholder",
+            "user": "Connor",
+            "link": "link",
+            "mobile": true,
             "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Satvik",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 90
-        },
-        {
-            "user": "Rice",
-            "link": "linkplaceholder",
-            "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }

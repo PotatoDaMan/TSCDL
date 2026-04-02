@@ -1,4 +1,3 @@
-
 {
     "id": 6300721,
     "name": "Forsaken Neon",
@@ -8,13 +7,18 @@
     "verification": "https://youtu.be/ZY61XAfhCQE",
     "percentToQualify": "50",
     "password": "Free To Copy",
-     "tags": ["GARDL Pack", "Zobros Pack"],
     "records": [
+        {
+            "user": "Memphis",
+            "link": "link",
+            "percent": 60,
+            "hz": 360
+        },
         {
             "user": "Leo",
             "link": "link",
-            "percent": 100,
-            "hz": 144
+            "percent": 51,
+            "hz": 360
         }
     ]
 }
