@@ -1,0 +1,24 @@
+{
+    "id": 18834999,
+    "name": "VeritY",
+    "author": "Serponge",
+    "creators": ["Serponge"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/p15w9MB2eAc?si=CCHx4Av2XExSzoKp",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Oleg",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

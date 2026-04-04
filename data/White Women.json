@@ -1,0 +1,37 @@
+{
+    "id": 63075323,
+    "name": "white women",
+    "author": "Heatherhayes",
+    "creators": ["Heatherhayes"],
+    "verifier": "Raghav",
+    "verification": "https://youtu.be/K5E64tECiQY",
+    "percentToQualify": "54",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "mobile": "true",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Vishwak",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
