@@ -1,0 +1,19 @@
+
+{
+    "id": 74536416,
+    "name": "Scorpius",
+    "author": "Team Proxima",
+    "creators": ["Team Proxima"],
+    "verifier": "Nathaniel",
+    "verification": "https://youtu.be/QrxGQeAsdh0",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

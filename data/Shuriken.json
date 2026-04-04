@@ -1,0 +1,33 @@
+
+{
+    "id": 29123017,
+    "name": "Shuriken",
+    "author": "Danolex",
+    "creators": ["Danolex"],
+    "verifier": "Nathaniel",
+    "verification": "https://youtu.be/ze7IgY7lKW0?si=11uQA1YOlcYKVZ91",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "tags": ["GARDL Pack", "OG List"],
+    "records": [
+        {
+            "user": "Leo",
+            "link": "https://youtu.be/f4isWS0lCNU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "mobile": "true",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

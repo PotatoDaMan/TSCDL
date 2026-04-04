@@ -1,0 +1,20 @@
+
+{
+    "id": 3264805,
+    "name": "Theory of SkriLLex",
+    "author": "Noobas",
+    "creators": ["Noobas"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/Grbpya5ZLYI",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "mobile": true,
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

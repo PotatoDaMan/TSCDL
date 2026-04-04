@@ -1,0 +1,18 @@
+{
+    "id": 48765988,
+    "name": "Polish Alphabet",
+    "author": "AxolotlCamellia",
+    "creators": ["AdolotlCamellia"],
+    "verifier": "Nathaniel",
+    "verification": "https://youtu.be/W3gT8Khk8mM?si=3SzoDMZL-aF36tZf",
+    "percentToQualify": "63",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Oleg",
+            "link": "linkplaceholder",
+            "percent": 76,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+
+{
+    "id": 2374518,
+    "name": "Red World",
+    "author": "SaRy",
+    "creators": ["SaRy", "|||NeptunE|||"],
+    "verifier": "Ben",
+    "verification": "https://m.youtube.com/watch?v=RlQYEwXKa24&list=PLHW5eDelrffcwYqrBvg6hxILJPbn8e7cX&index=16&pp=gAQBiAQB",
+    "percentToQualify": "57",
+    "password": "Free To Copy",
+    "tags": ["Dogshit Pack"],
+    "records": [
+        {
+            "user": "Fexitty",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+
+{
+    "id": 7054561,
+    "name": "Poltergeist",
+    "author": "Andromeda GMD",
+    "creators": ["Andromeda GMD"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/6GAUxrS365Q",
+    "percentToQualify": "27",
+    "password": "Free To Copy",
+    "tags": ["Nine Circles Pack"],
+    "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

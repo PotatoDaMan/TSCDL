@@ -1,0 +1,18 @@
+{
+    "id": 73005068,
+    "name": "sunburn",
+    "author": "pocke",
+    "creators": ["pocke"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/93-qIWiSLLg?si=FyWrysk2B9B5Q-1y",
+    "percentToQualify": "49",
+    "password": "Free To Copy",
+    "records": [
+         {
+        "user": "Eli",
+        "link": "linkplaceholder",
+        "percent": 100,
+        "hz": 144
+        }
+    ]
+}

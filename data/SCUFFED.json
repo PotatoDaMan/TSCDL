@@ -1,0 +1,26 @@
+
+{
+    "id": 95067312,
+    "name": "SCUFFED",
+    "author": "The Goola",
+    "creators": ["The Goola"],
+    "verifier": "Eli",
+    "verification": "https://www.youtube.com/watch?v=qpDWEghlwJk&t=1s",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "tags": ["Rainbow Pack"],
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+        "user": "Ben",
+        "link": "linkplaceholder",
+        "percent": 100,
+        "hz": 144
+        }
+    ]
+}

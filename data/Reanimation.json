@@ -1,0 +1,38 @@
+{
+    "id": "14975695",
+    "name": "Reanimation",
+    "author": "Terron",
+    "creators": ["Terron"],
+    "verifier": "Raghav",
+    "verification": "https://youtu.be/f4isWS0lCNU",
+    "percentToQualify": 60,
+    "password": "Free To Copy",
+    "tags": ["GARDL Pack", "OG List"],
+    "records": [
+        {
+            "user": "Nathaniel",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Leo",
+            "link": "https://youtu.be/f4isWS0lCNU",
+            "mobile": "true",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Oleg",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
