@@ -1,0 +1,62 @@
+{
+    "id": 56568010,
+    "name": "Magma Bound",
+    "author": "ScorchVX",
+    "creators": ["ScorchVX"],
+    "verifier": "Eli",
+    "verification": "https://youtu.be/muShK6gtsJc?si=6aSgYfTm0CWQcaPB",
+    "percentToQualify": "53",
+    "password": "Free To Copy",
+    "tags": ["OG List", "GARDL Pack", "Common First"],
+    "records": [
+        {
+            "user": "Leo",
+            "link": "https://youtu.be/muShK6gtsJc?si=6aSgYfTm0CWQcaPB",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "mobile": true,
+            "percent": 100,
+            "hz": 60
+        }, 
+        {
+            "user": "Raghav",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Oleg",
+            "link": "https://youtu.be/iK6QS-lYQSk?si=_dWHP34Et1qCnHqS",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Gogglas",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fexitty",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Litten",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Est",
+            "link": "linkplaceholder",
+            "percent": 56,
+            "hz": 240
+        } 
+    ]
+}

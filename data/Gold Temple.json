@@ -1,0 +1,37 @@
+{
+    "id": 21337579,
+    "name": "Gold Temple",
+    "author": "Serponge",
+    "creators": ["Serponge"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/-rJ26230LwU?si=LIAolfcHMHMLMyXs",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "tags": ["OG List", "Serponge Pack"],
+    "records": [
+        {
+            "user": "Raghav",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Nathaniel",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

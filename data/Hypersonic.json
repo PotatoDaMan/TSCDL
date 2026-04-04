@@ -1,0 +1,18 @@
+{
+    "id": "30219145",
+    "name": "Hypersonic",
+    "author": "ViPriN",
+    "creators": ["ViPriN"],
+    "verifier": "Fexitty",
+    "verification": "https://youtu.be/yMl6gp7EfNE",
+    "percentToQualify": 60,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Gogglas",
+            "link": "linkplaceholder",
+            "percent": 87,
+            "hz": 240
+        }
+    ]
+}

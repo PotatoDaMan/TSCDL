@@ -1,0 +1,20 @@
+
+{
+    "id": 6892453,
+    "name": "Figures",
+    "author": "Glittershroom",
+    "creators": ["Glittershroom"],
+    "verifier": "Est",
+    "verification": "https://youtu.be/4u4IGsva1Is",
+    "percentToQualify": "52",
+    "password": "Free To Copy",
+    "tags": ["Nine Circles Pack"],
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

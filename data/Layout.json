@@ -1,0 +1,25 @@
+
+{
+    "id": 58708039,
+    "name": "Layout",
+    "author": "alkali",
+    "creators": ["alkali"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/WtCsX696lxY",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+        "user": "Ben",
+        "link": "linkplaceholder",
+        "percent": 100,
+        "hz": 144
+        },
+        {
+        "user": "Eli",
+        "link": "linkplaceholder",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}

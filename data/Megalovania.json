@@ -1,0 +1,26 @@
+
+{
+    "id": 15427055,
+    "name": "Megalovania",
+    "author": "EternaswipVMAX",
+    "creators": ["EternaswipVMAX"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/BQwJK8Yw7CI?si=bjqNLuodREcBkIiV",
+    "percentToQualify": "47",
+    "password": "Free To Copy",
+    "tags": ["OG List", "Dogshit Pack"],
+    "records": [
+        {
+            "user": "Satvik",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 90
+        },
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

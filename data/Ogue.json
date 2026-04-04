@@ -1,0 +1,19 @@
+{
+    "id": 90902050,
+    "name": "Ogue",
+    "author": "Kapycta999",
+    "creators": ["Kapycta999"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/s5yx_GKKRK0?si=XigsyWQA6i0r2MzL",
+    "percentToQualify": "51",
+    "password": "Free To Copy",
+     "tags": [""],
+    "records": [
+        {
+        "user": "Ben",
+        "link": "linkplaceholder",
+        "percent": 100,
+        "hz": 144
+        }
+    ]
+}

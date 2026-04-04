@@ -1,0 +1,43 @@
+{
+    "id": 61137742,
+    "name": "Leyak",
+    "author": "EnZore",
+    "creators": ["EnZore", "ILRELL", "Marwec"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/REn-376J6SY",
+    "percentToQualify": "45",
+    "password": "Free To Copy",
+    "tags": ["OG List", "GARDL Pack", "Click-sync Pack"],
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Oleg",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Vishwak",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Gogglas",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 6939821,
+    "name": "Jawbreaker",
+    "author": "ZenthicAlpha",
+    "creators": ["ZenthicAlpha"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/OnYVTtSknD8",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "tags": ["Nine Circles Pack", "OG List"],
+    "records": [
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Leo",
+            "link": "https://youtu.be/OnYVTtSknD8",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Est",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fexitty",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+
+{
+    "id": 87425029,
+    "name": "Niwa",
+    "author": "Teno",
+    "creators": ["Teno", "Mrgm", "Aranda", "Titoalper", "KrazyGFX", "Beclan", "Asuith", "Pedro", "Peng", "Blaze", "Genoxide"],
+    "verifier": "Ben",
+    "verification": "https://youtube.com/watch?v=XhdkBR48diA&si=MTOjC3gJKsjIBxKv",
+    "percentToQualify": "44",
+    "password": "Free To Copy",
+    "tags": ["Reta Pack", "Click-sync Pack"],
+    "records": [
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Est",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+
+{
+    "id": 25706351,
+    "name": "HeLL",
+    "author": "Serponge",
+    "creators": ["Serponge"],
+    "verifier": "Eli",
+    "verification": "https://www.youtube.com/watch?v=zzzbJNfLV2E",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "tags": ["Serponge Pack"],
+    "records": [
+        {
+            "user": "Leo",
+            "link": "https://www.youtube.com/watch?v=zzzbJNfLV2E",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+        "user": "Ben",
+        "link": "linkplaceholder",
+        "percent": 100,
+        "hz": 144
+        },
+        {
+        "user": "Nathaniel",
+        "link": "linkplaceholder",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}

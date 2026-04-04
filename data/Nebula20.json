@@ -1,0 +1,21 @@
+
+{
+    "id": 63113581,
+    "name": "Nebula20",
+    "author": "ToastLord",
+    "creators": ["ToastLord", "TheKrazy36"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/JnHA4R_9Iz8",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "tags": ["OG List", "GARDL Pack", "Creo Pack", "ToastLord Pack", "Click-sync Pack"],
+    "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "mobile": "true",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

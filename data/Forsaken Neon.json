@@ -1,0 +1,20 @@
+
+{
+    "id": 6300721,
+    "name": "Forsaken Neon",
+    "author": "Zobros",
+    "creators": ["Zobros"],
+    "verifier": "Preston",
+    "verification": "https://youtu.be/ZY61XAfhCQE",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+     "tags": ["GARDL Pack", "Zobros Pack"],
+    "records": [
+        {
+            "user": "Leo",
+            "link": "link",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

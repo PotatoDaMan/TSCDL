@@ -1,0 +1,18 @@
+{
+    "id": 60660086,
+    "name": "Multition (2P)",
+    "author": "Mulpan",
+    "creators": ["Mulpan, Partition"],
+    "verifier": "Eli",
+    "verification": "https://youtu.be/Syg3tZctvC0?si=02xtq3Oru7WH7EEt",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+        "user": "Ben",
+        "link": "linkplaceholder",
+        "percent": 100,
+        "hz": 144
+        }
+    ]
+}

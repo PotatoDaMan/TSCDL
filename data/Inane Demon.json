@@ -1,0 +1,20 @@
+
+{
+    "id": 89743050,
+    "name": "Inane Demon",
+    "author": "KiwiPenguin",
+    "creators": ["KiwiPenguin"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/I5dkVwV5D9c",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "tags": ["Rainbow Pack"],
+    "records": [
+        {
+            "user": "Gogglas",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
