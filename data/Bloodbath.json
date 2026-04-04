@@ -1,0 +1,49 @@
+{
+    "id": 10567540,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Riot, Vermillion, WEOWEOTEO, Michigun, Evasium, crack, Etzer, Havok, GgB0y"],
+    "verifier": "Est",
+    "verification": "https://youtu.be/19JiHnK32y4?si=lqwXjXsQh1-QmY7O",
+    "percentToQualify": "53",
+    "password": "Free To Copy",
+    "tags": ["Apocalyptic Trilogy", "RGB"],
+    "records": [
+        {
+        "user": "Ben",
+        "link": "linkplaceholder",
+        "percent": 100,
+        "hz": 144
+        },
+        {
+            "user": "Fexitty",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Nathaniel",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Michael",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Jason",
+            "link": "linkplaceholder",
+            "percent": 61,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 40945673,
+    "name": "CraZy",
+    "author": "DavJT",
+    "creators": ["DavJT"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/g_MP6BENHEs?si=gyRriKbb1KOUcEDz",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "tags": ["OG List","Circus Pack", "CraZy Trilogy"],
+    "records": [
+        {
+            "user": "Nathaniel",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Oleg",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Gogglas",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

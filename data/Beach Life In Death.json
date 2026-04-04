@@ -1,0 +1,18 @@
+{
+    "id": 135734790,
+    "name": "Beach Life In Death",
+    "author": "gogglas",
+    "creators": ["gogglas"],
+    "verifier": "gogglas",
+    "verification": "https://www.youtube.com/watch?v=O9I54BMn1jQ",
+    "percentToQualify": "49",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Fexitty",
+            "link": "https://www.youtube.com/watch?v=EzyYnwURvm0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

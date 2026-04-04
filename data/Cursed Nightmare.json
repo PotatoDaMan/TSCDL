@@ -1,0 +1,27 @@
+
+{
+    "id": 63245954,
+    "name": "Cursed Nightmare",
+    "author": "Ghostav",
+    "creators": ["Ghostav"],
+    "verifier": "Nathaniel",
+    "verification": "https://youtu.be/SbGhMFvXnKk?si=nAN4QnqC7Z5ImeB5",
+    "percentToQualify": "51",
+    "password": "Free To Copy",
+    "tags": ["OG List"],
+    "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "mobile": "true",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

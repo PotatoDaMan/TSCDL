@@ -1,0 +1,27 @@
+
+{
+    "id": 78901064,
+    "name": "Carpe Lucem",
+    "author": "Zoroa",
+    "creators": ["Zoroa"],
+    "verifier": "Raghav",
+    "verification": "https://youtu.be/zehjwgvzPGM?si=266A6B6crnC8vt2Y",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "tags": ["OG List", "Dual Pack"],
+    "records": [
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "mobile": "true",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

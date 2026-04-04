@@ -1,0 +1,44 @@
+
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "Ggb0y",
+    "creators": ["Ggb0y"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/wc85gXICCf4?si=UD9-zvFd2evOV9S9",
+    "percentToQualify": "52",
+    "password": "Free To Copy",
+    "tags": ["Apocalyptic Trilogy"],
+    "records": [
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Fexitty",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Est",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Michael",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Preston",
+            "link": "linkplaceholder",
+            "percent": 80,
+            "hz": 240
+        }
+    ]
+}

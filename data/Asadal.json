@@ -1,0 +1,32 @@
+
+{
+    "id": 83323659,
+    "name": "Asadal",
+    "author": "Seokso",
+    "creators": ["Seokso", "Hann", "ilnm", "blaarg", "Partition", "Uriun112", "Shaaant", "R3ul", "ChrySpy", "wapon77", "maplegaegosu", "HyoJung", "Booglee", "ManGolu", "NaimNaro"],
+    "verifier": "Ben",
+    "verification": "https://m.youtube.com/watch?v=kRzfWEjFgMI",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "tags": ["OG List", "Gauntlet Pack", "Korean Pack"],
+    "records": [
+        {
+            "user": "Vishwak",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Leo",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

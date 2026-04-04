@@ -1,0 +1,18 @@
+{
+    "id": 69108628,
+    "name": "Broken Signal",
+    "author": "Grax",
+    "creators": ["Grax"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/9q7h0wmfkjk?si=asuqFP67YHULzDTA",
+    "percentToQualify": "58",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 88,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 69010770,
+    "name": "Dark Odyssey",
+    "author": "JonathanGD",
+    "creators": ["JonathanGD"],
+    "verifier": "Ben",
+    "verification": "https://youtu.be/OdNN_RM6zFA?si=4BpeWXpJG7kRG7-r",
+    "percentToQualify": "52",
+    "password": "Free To Copy",
+    "tags": ["OG List", "XL Pack", "Pre-TSCDL Top 1 Pack", "JonathanGD Pack"],
+    "records": [
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fexitty",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

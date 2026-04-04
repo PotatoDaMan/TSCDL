@@ -1,0 +1,51 @@
+
+{
+    "id": 47620786,
+    "name": "CraZy II",
+    "author": "DavJT",
+    "creators": ["DavJT"],
+    "verifier": "Leo",
+    "verification": "https://youtu.be/gyHOPjrYnUk",
+    "percentToQualify": "54",
+    "password": "Free To Copy",
+    "tags": ["Circus Pack", "CraZy Trilogy", "Bossfight Pack"],
+    "records": [
+        {
+            "user": "Est",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Vishwak",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ben",
+            "link": "linkplaceholder",
+            "mobile": "true",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Eli",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Jason",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Gogglas",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
