@@ -20,3 +20,4 @@ jobs:
           git pull origin production
           git merge main --no-ff --no-edit
           git push origin production
+          git reset --hard d364dc469a669d07d36e15753fb3f2995703883e
