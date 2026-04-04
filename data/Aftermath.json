@@ -21,6 +21,12 @@
         "link": "linkplaceholder",
         "percent": 100,
         "hz": 240
+        },
+        {
+        "user": "Est",
+        "link": "linkplaceholder",
+        "percent": 98,
+        "hz": 240
         }
     ]
 }
