@@ -8,5 +8,11 @@
     "percentToQualify": "70",
     "password": "Free To Copy",
     "records": [
+        {
+        "user": "Ben",
+        "link": "linkplaceholder",
+        "percent": 84,
+        "hz": 144
+        }
     ]
 }
