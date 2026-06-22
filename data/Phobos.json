@@ -8,7 +8,11 @@
     "percentToQualify": 75,
     "password": "Free To Copy",
     "records": [
-
-
+        {
+            "user": "Fexitty",
+            "link": "linkplaceholder",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
