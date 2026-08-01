@@ -1,1 +1,12 @@
-
+{
+    "id": 127135884,
+    "name": "Fun Friday",
+    "author": "Zeronium",
+    "creators": ["Zeronium"],
+    "verifier": "Fexitty",
+    "verification": "https://www.youtube.com/watch?v=tEQbQgQ8WZ4",
+    "percentToQualify": "80",
+    "password": "Free To Copy",
+    "records": [
+    ]
+}
